@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--color-text);
+
+}
+
+html,
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    overflow-x: clip;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+:root {
+    --bg-header: #111;
+    --bg-btn: #54ab35;
+    --size-border-radius: 5px;
+   
+    --color-select-movie: #d4dd29;
+}
+
